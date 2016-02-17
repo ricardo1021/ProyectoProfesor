@@ -17,6 +17,7 @@ public class Figura {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Esa es Pro very good");
        Cilindro cilindro1 = new Cilindro(5f);
        Cilindro cilindro2 = new Cilindro(3f, 2f);
        Circulo cir = new Circulo(11.6f, 20.4f, 0f);
